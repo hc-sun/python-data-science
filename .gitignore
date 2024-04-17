@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 dummy_data.csv
 *.h5
+logs/
